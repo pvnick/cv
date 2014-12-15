@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.76.0-2013121407 (rev 4627)  (format=lualatex 2014.9.23)  14 DEC 2014 19:41
+This is LuaTeX, Version beta-0.76.0-2013121407 (rev 4627)  (format=lualatex 2014.9.23)  14 DEC 2014 22:17
  restricted \write18 enabled.
 **resume.tex
 (./resume.tex
@@ -857,7 +857,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package hyperref Info: Option `breaklinks' set `true' on input line 57.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 57.
 
-No file resume.aux.
+(./resume.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
@@ -875,7 +875,7 @@ LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 57.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -979,11 +979,15 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 57.
 LaTeX Info: Redefining \pageref on input line 57.
 LaTeX Info: Redefining \nameref on input line 57.
+
+(./resume.out) (./resume.out)
 \@outlinefile=\write4
+\pagenumberwidth=\skip281
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 57.
 \makecvtitledetailsbox=\box283
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 60.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 60.
@@ -1013,13 +1017,13 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box284
 
-<profile-pic.pdf, id=9, 760.8425pt x 760.8425pt>
+<profile-pic.pdf, id=22, 760.8425pt x 760.8425pt>
 File: profile-pic.pdf Graphic file (type pdf)
  <use profile-pic.pdf>
 Package pdftex.def Info: profile-pic.pdf used on input line 60.
 (pdftex.def)             Requested size: 72.0pt x 71.99054pt.
-\makecvtitledetailswidth=\skip281
-\makecvtitlepicturewidth=\skip282
+\makecvtitledetailswidth=\skip282
+\makecvtitlepicturewidth=\skip283
 
 Underfull \hbox (badness 10000) in paragraph at lines 60--60
 
@@ -1041,42 +1045,32 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  (./resume.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
-
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  F85D72CC1848A359094009B317DEA2D4;307.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: F85D72CC1848A359094009B317DEA2D4;307.
  )
 
 Here is how much of LuaTeX's memory you used:
- 26120 strings out of 494814
+ 26143 strings out of 494814
  100000,662416 words of node,token memory allocated
  2162 words of node memory still in use:
    33 hlist, 5 vlist, 12 rule, 2 math, 84 glue, 12 kern, 7 penalty, 81 glyph, 69
  glue_spec, 2 action, 1 write, 137 pdf_literal, 1 pdf_refximage, 2 pdf_start_lin
 k, 2 pdf_end_link, 8 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore 
 nodes
-   avail lists: 1:1,2:29,3:289,4:1107,5:157,6:2915,7:121,8:8,9:293,10:321
- 28692 multiletter control sequences out of 65536+600000
- 75 fonts using 2960227 bytes
- 70i,12n,60p,771b,771s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:29,3:292,4:1120,5:159,6:2931,7:123,8:9,9:296,10:319
+ 28698 multiletter control sequences out of 65536+600000
+ 79 fonts using 3117451 bytes
+ 70i,13n,60p,771b,769s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pub
 lic/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsso10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/marvosym/marvosym.pfb>
-Output written on resume.pdf (2 pages, 1300267 bytes).
+Output written on resume.pdf (2 pages, 1300624 bytes).
 
-PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+PDF statistics: 77 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
