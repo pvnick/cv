@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.76.0-2013121407 (rev 4627)  (format=lualatex 2014.9.23)  14 DEC 2014 22:39
+This is LuaTeX, Version beta-0.76.0-2013121407 (rev 4627)  (format=lualatex 2014.9.23)  14 DEC 2014 23:50
  restricted \write18 enabled.
 **resume.tex
 (./resume.tex
@@ -1030,21 +1030,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 69.
+(Font)              <10.95> on input line 70.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 69.
+(Font)              <8> on input line 70.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 69.
+(Font)              <6> on input line 70.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./profile-pic.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: F85D72CC1848A359094009B317DEA2D4;307.
  )
@@ -1057,7 +1057,7 @@ Here is how much of LuaTeX's memory you used:
  glue_spec, 2 action, 1 write, 137 pdf_literal, 1 pdf_refximage, 2 pdf_start_lin
 k, 2 pdf_end_link, 8 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore 
 nodes
-   avail lists: 1:1,2:29,3:292,4:1120,5:159,6:2931,7:123,8:9,9:296,10:319
+   avail lists: 1:1,2:29,3:294,4:1134,5:158,6:2914,7:124,8:9,9:299,10:317
  28698 multiletter control sequences out of 65536+600000
  79 fonts using 3117451 bytes
  70i,13n,60p,771b,769s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1067,7 +1067,7 @@ lic/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share
 lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsso10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/marvosym/marvosym.pfb>
-Output written on resume.pdf (2 pages, 1300624 bytes).
+Output written on resume.pdf (2 pages, 1300616 bytes).
 
 PDF statistics: 77 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
