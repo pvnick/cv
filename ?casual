@@ -9,8 +9,8 @@
 \documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
 % moderncv themes
-\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{orange}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 \renewcommand{\familydefault}{\rmdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
@@ -31,7 +31,7 @@
 
 % personal data
 \name{Paul}{Nickerson}
-%\title{Résumé}                               % optional, remove / comment the line if not wanted
+\title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
 \address{8804 NW 11 Pl}{Gainesville, FL 32606} % optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
 \phone[mobile]{+1~(352)~538~1962}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 \email{pvnick@ufl.edu}                               % optional, remove / comment the line if not wanted
@@ -39,7 +39,7 @@
 %\social[linkedin]{www.linkedin.com/in/paulnickerson}                        % optional, remove / comment the line if not wanted
 %\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
 \social[github]{www.github.com/pvnick}                              % optional, remove / comment the line if not wanted
-\photo[72pt][0.4pt]{profile-pic.pdf}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+\photo[64pt][0.4pt]{profile-pic.pdf}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
 %\quote{Some quote}                                 % optional, remove / comment the line if not wanted
 
 % to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
@@ -60,21 +60,21 @@
 \makecvtitle
 
 \section{Experience}
-\cventry{2014--present}{Research Assistant, Biomedical Engineering}{University of Florida}{}{}{%
+\cventry{2014--present}{Research Assistant, Biomedical Engineering}{University of Florida}{Gainesville, FL}{}{%
 \begin{itemize}%
 \item Analyzed medical data using state-of-the-art statistical techniques and machine learning algorithms to glean insights and develop smarter healthcare strategies.
 \item Researched novel algorithms and technologies for making sense of the growing volume of medical data and helped write manuscripts to disseminate new findings.
 \item Developed and deployed data-mining applications on UF's supercomputer, HiPerGator, the largest supercomputer in Florida.
 \end{itemize}
 }
-\cventry{2012--2013}{Senior Software Engineer}{Wear Interactive}{}{}{%
+\cventry{2012--2013}{Senior Software Engineer}{Wear Interactive}{Gainesville, FL}{}{%
 \begin{itemize}%
 \item Led a talented team of developers to develop and launch products under strict deadlines and shifting client expectations.
 \item Navigated the whole stack required for product launches, including design and mockup, coding, systems administration, QA, and business development.
 \item Migrated and deployed client applications to cloud-based hosting environments, bringing down costs and improving application reliability.
 \end{itemize}
 }
-\cventry{2009--2012}{Data Scientist}{Grooveshark}{}{}{%
+\cventry{2009--2012}{Data Scientist}{Grooveshark}{Gainesville, FL}{}{%
 \begin{itemize}%
 \item Built and maintained large scale analytics systems to mine Grooveshark’s billions of song plays for billing purposes and user-facing features.
 \item Routinely analyzed massive data sets to help executives make decisions.
